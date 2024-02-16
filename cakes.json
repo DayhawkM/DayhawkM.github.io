@@ -4,19 +4,19 @@
         "name": "Chocolate Explosion Cake",
         "price": 29.95,
         "manufacturer": "Watson's Treats",
-        "availability": true
+        "availability": In Stock
       },
       {
         "name": "Fruit Extravaganza Cake",
         "price": 19.95,
-        "manufacturer": "Watson's Treats",
-        "availability": true
+        "manufacturer": "United Fruit Company",
+        "availability": In Stock
       },
       {
         "name": "TRUBLU4U Cake (Limited Edition)",
         "price": 24.99,
-        "manufacturer": "Watson's Treats",
-        "availability": false
+        "manufacturer": "Liverblue Farms",
+        "availability": Limited edition
       }
     ]
   }
