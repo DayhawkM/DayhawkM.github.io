@@ -1,18 +1,21 @@
 {
     "cakes": [
       {
+          "imgURL": "https://dayhawkm.github.io/images/deal1.jpg",
         "name": "Chocolate Explosion Cake",
         "price": 29.95,
         "manufacturer": "Watson's Treats",
         "availability": "In Stock"
       },
       {
+          "imgURL": "https://dayhawkm.github.io/images/fruitcake.jpg",
         "name": "Fruit Extravaganza Cake",
         "price": 19.95,
         "manufacturer": "United Fruit Company",
         "availability": "In Stock"
       },
       {
+          "imgURL": "https://dayhawkm.github.io/images/blueberry.jpg",
         "name": "TRUBLU4U Cake (Limited Edition)",
         "price": 24.99,
         "manufacturer": "Liverblue Farms",
